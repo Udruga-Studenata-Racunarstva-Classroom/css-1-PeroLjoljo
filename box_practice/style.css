@@ -40,3 +40,13 @@ html {
   border-radius: 4px;
   background: #fff;
 }
+ul{
+  list-style-type: none;
+  border: 8px solid gray; 
+  padding-inline-start: 0px;
+}
+li{
+  padding: 5px 0px 5px 10px;
+  text-align: left;
+  border-top: 3px solid gray;
+}
